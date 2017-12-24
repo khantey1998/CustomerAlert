@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1060170211740",
+    "firebase_url": "https://customer-alert.firebaseio.com",
+    "project_id": "customer-alert",
+    "storage_bucket": "customer-alert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060170211740:android:c26fbb339f7babb9",
+        "android_client_info": {
+          "package_name": "com.fe.customeralert.customeralert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060170211740-uo008jtvv46gi58kjsdqpic2stp297so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-o_UBhdQFMOMg3E5R5HJmUh5p5E1so_w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

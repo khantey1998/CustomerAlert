@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Customer Alert</string>
+    <string name="facebook_app_id">132501074086336</string>
+    <string name="fb_login_protocol_scheme">fb132501074086336</string>
+</resources>
